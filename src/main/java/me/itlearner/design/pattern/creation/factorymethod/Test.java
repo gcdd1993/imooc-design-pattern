@@ -11,7 +11,5 @@ public class Test {
         VideoFactory javaVideoFactory = new JavaVideoFactory();
         VideoFactory pythonVideoFactory = new PythonVideoFactory();
         VideoFactory feVideoFactory = new FEVideoFactory();
-        Video video = javaVideoFactory.getVideo();
-        video.produce();
     }
 }
