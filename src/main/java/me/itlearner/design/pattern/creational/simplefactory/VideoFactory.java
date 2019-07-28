@@ -17,9 +17,9 @@ public class VideoFactory {
         return null;
     }
 //    public Video getVideo(String type) {
-//        if ("Java".equals(type)) {
+//        if ("java".equalsIgnoreCase(type)) {
 //            return new JavaVideo();
-//        } else if ("Python".equals(type)) {
+//        } else if ("python".equalsIgnoreCase(type)) {
 //            return new PythonVideo();
 //        } else {
 //            return null;
