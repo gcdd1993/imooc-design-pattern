@@ -1,4 +1,4 @@
-package me.itlearner.design.pattern.creation.factorymethod;
+package me.itlearner.design.pattern.creational.factorymethod;
 
 /**
  * TODO
